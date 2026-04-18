@@ -240,17 +240,6 @@ Open your browser to **http://localhost:8501**
 
 ---
 
-**To launch the analytics dashboard** (EDA, model performance, cluster analysis):
-
-```powershell
-venv\Scripts\activate
-streamlit run dashboard/dashboard.py --server.port 8502
-```
-
-Open your browser to **http://localhost:8502**
-
----
-
 Both can run at the same time in separate terminal tabs.
 
 ---
