@@ -1,0 +1,4 @@
+Model,CV Recall Mean,CV Recall Std,CV AUC Mean,CV AUC Std
+Logistic Regression,0.8198,0.0289,0.9024,0.0417
+Random Forest,0.7743,0.0425,0.894,0.0445
+SVM,0.7012,0.104,0.8237,0.049
